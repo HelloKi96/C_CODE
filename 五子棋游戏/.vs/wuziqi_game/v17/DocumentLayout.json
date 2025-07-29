@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wuziqi_game\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wuziqi_game\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wuziqi_game\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wuziqi_game\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\Chess.cpp",
+              "RelativeDocumentMoniker": "wuziqi_game\\Chess.cpp",
+              "ToolTip": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\Chess.cpp",
+              "RelativeToolTip": "wuziqi_game\\Chess.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T02:30:17.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessGame.cpp",
+              "DocumentMoniker": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.cpp",
+              "RelativeDocumentMoniker": "wuziqi_game\\ChessGame.cpp",
+              "ToolTip": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.cpp",
+              "RelativeToolTip": "wuziqi_game\\ChessGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T02:30:11.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessGame.h",
+              "DocumentMoniker": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.h",
+              "RelativeDocumentMoniker": "wuziqi_game\\ChessGame.h",
+              "ToolTip": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\ChessGame.h",
+              "RelativeToolTip": "wuziqi_game\\ChessGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T02:30:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI.cpp",
+              "DocumentMoniker": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\AI.cpp",
+              "RelativeDocumentMoniker": "wuziqi_game\\AI.cpp",
+              "ToolTip": "E:\\code\\2025\\C\u002B\u002B\\2025-college-grade2\\wuziqi_game\\wuziqi_game\\AI.cpp",
+              "RelativeToolTip": "wuziqi_game\\AI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T02:30:07.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

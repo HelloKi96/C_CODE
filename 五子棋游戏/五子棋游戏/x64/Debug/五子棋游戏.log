@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(五子棋游戏.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+ChessGame.obj : error LNK2005: "public: void __cdecl AI::go(void)" (?go@AI@@QEAAXXZ) 已经在 AI.obj 中定义
+ChessGame.obj : error LNK2005: "public: void __cdecl AI::init(class Chess *)" (?init@AI@@QEAAXPEAVChess@@@Z) 已经在 AI.obj 中定义
+Man.obj : error LNK2005: "public: void __cdecl Man::go(void)" (?go@Man@@QEAAXXZ) 已经在 ChessGame.obj 中定义
+Man.obj : error LNK2005: "public: void __cdecl Man::init(class Chess *)" (?init@Man@@QEAAXPEAVChess@@@Z) 已经在 ChessGame.obj 中定义
+源.obj : error LNK2005: "public: void __cdecl AI::go(void)" (?go@AI@@QEAAXXZ) 已经在 AI.obj 中定义
+源.obj : error LNK2005: "public: void __cdecl Man::go(void)" (?go@Man@@QEAAXXZ) 已经在 ChessGame.obj 中定义
+源.obj : error LNK2005: "public: void __cdecl AI::init(class Chess *)" (?init@AI@@QEAAXPEAVChess@@@Z) 已经在 AI.obj 中定义
+源.obj : error LNK2005: "public: void __cdecl Man::init(class Chess *)" (?init@Man@@QEAAXPEAVChess@@@Z) 已经在 ChessGame.obj 中定义
+E:\code\2025\C++\2025-college-grade2\五子棋游戏\x64\Debug\wuziqi _game.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
